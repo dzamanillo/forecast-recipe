@@ -1,0 +1,11 @@
+{
+	"id": "forecast",
+	"name": "Forecast",
+	"version": "1.0.0",
+	"license": "MIT",
+	"config": {
+		"serviceURL": "https://app.forecast.it/timesheets",
+		"hasNotificationSound": true,
+		"hasIndirectMessages": true
+	}
+}
